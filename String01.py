@@ -5,4 +5,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    x = "schools!"
+    return len(x)
+print(main())
