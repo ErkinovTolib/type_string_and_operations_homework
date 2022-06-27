@@ -6,5 +6,5 @@ def main():
         str: return answer.
     """
     x = "schools "
-    return len(x)
+    return x
 print(main())
