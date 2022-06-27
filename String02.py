@@ -8,3 +8,4 @@ def main():
     """
     x = "CODESCHOOL"
     return x
+print(main())
