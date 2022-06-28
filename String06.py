@@ -7,7 +7,5 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    s = "python"
-    n = 3
-    h = s*n
-    return h
+    return s*n
+print(main("python",3))
