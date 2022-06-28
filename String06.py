@@ -9,4 +9,4 @@ def main(s,n):
     """
     s = "python"
     n = 3
-    return s*3 
+    return s*n
