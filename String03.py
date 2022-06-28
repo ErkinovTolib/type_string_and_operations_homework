@@ -9,6 +9,6 @@ def main():
     Returns:
         str: return answer.
     """
-    x = "code "
+    x = "*****"
     return x
 print(main())
