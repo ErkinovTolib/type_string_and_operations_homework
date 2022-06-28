@@ -7,4 +7,6 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    return 
+    s = "python"
+    n = 3
+    return s*3 
