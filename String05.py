@@ -7,6 +7,5 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    s1 = "python\t"
-    s2 = "coder"
     return s1+s2
+print(main("python\t","coder"))
